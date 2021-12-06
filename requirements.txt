@@ -1,0 +1,15 @@
+Flask==1.1.1
+gunicorn==19.9.0
+streamlit==1.1.0
+pandas==1.2.5
+numpy==1.19.3
+matplotlib==3.4.3
+seaborn==0.11.2
+nltk==3.5
+tensorflow==2.6.0
+pythainlp==2.3.2
+gensim==4.1.2
+bs4
+h5py==3.1.0
+
+
